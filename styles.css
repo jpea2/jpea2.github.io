@@ -1,6 +1,6 @@
 :root {
     text-align: center;
-    font-family: 'Quicksand', sans-serif;
+    font-family: 'Inter', sans-serif;
     background-color: black;
     color: #7DF9FF;
     width: auto;
@@ -21,7 +21,7 @@ body {
 }
 
 #gitIcon {
-    width: 2.5rem;
+    width: 2.7rem;
     height: 100%;
 }
 
