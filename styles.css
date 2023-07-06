@@ -14,9 +14,14 @@ body {
     box-sizing: border-box;
 }
 
-#faceIcon {
+#faceIcon{
     filter: invert(1);
     width: 2rem;
+    height: 100%;
+}
+
+#gitIcon {
+    width: 2.5rem;
     height: 100%;
 }
 
@@ -28,6 +33,7 @@ nav {
     background-color: black;
     max-width: 100%;
 }
+
 
 .shadow__btn {
     padding: 5px 10px;
