@@ -74,6 +74,11 @@ h1 {
     line-height: 1.5;
 }
 
+.project-card img {
+    width: 50px;
+    height: auto;
+}
+
 #projects {
     text-align: center;
 }
